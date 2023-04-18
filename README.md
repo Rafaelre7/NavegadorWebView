@@ -1,6 +1,7 @@
 # NavegadorWebView
 Exemplo de uma navegor usando webview com kotlin
 
-![image](https://user-images.githubusercontent.com/33284324/232867378-938dac3d-b9fe-4d87-abc1-8046a43baa1b.png)
+![Navegador](https://user-images.githubusercontent.com/33284324/232867960-1ea678f9-9b41-47bb-9fad-0a3ed6a43567.png)
+
 - Opção para pesquisar 
 - Seta de voltar e avançar
